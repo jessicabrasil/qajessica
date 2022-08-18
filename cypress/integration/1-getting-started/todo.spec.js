@@ -10,3 +10,4 @@ describe('Exemplo 1', () => {
     cy.get('h3.LC20lb.MBeuO.DKV0Md').should('contain', 'Brasil – Wikipédia, a enciclopédia livre');
     })
 })
+ 
